@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The App Wont work unless you initilise the config.js fie with ur firebase project details
 ## Available Scripts
 
 In the project directory, you can run:
